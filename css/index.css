@@ -1,17 +1,4 @@
-[aria-label^="breadcrumb" i] li + li::before {
-    content: "";
-    display: block;
-    width: 8px;
-    height: 8px;
-    border-top: 2px solid currentColor;
-    border-right: 2px solid currentColor;
-    rotate: 45deg;
-    opacity: .8
-  }
 
-  .course .stack-nav a:not([data-complete="true"]) svg {
-    display: none;
-  }
 /* One radio button per line */
 label {
   display: block;
