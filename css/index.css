@@ -1,27 +1,8 @@
-
-/* One radio button per line */
-label {
-  display: block;
-  cursor: pointer;
-  line-height: 2.5;
-}
-/* the basic, unchecked style */
-input[type="radio"] {
-  appearance: none;
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  border-radius: 50%;
-  border: 0.1em solid #000;
+h1 {
+  font-size: 70px;
 }
 
-body {
-  margin: auto;
-  max-width: auto;
-  /* font-family: comic-sans; */
-  /* font-size: 1.5rem; */
-  /* font-family:  ; */
-}
+
 
 .icon-white {
   /* background-image: "img/logo.png"; */
